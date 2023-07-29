@@ -7,7 +7,7 @@ Thu nhiều lần và tìm được vị trí của dữ liệu nhiệt độ, c
 # Thiết kế mạch 
 ### Lưu ý : Tôi chỉ lập trình file daikin_ir.ino, thiết kế và lắp mạch phát tín hiệu do một người khác thực hiện 
 ![sơ đồ mạch phát ir](img/Ssodomachphat.png)
-# Chắc năng 
+# Tính năng 
 Hiện tại code này chỉ có một nút bấm, khi bấm sẽ gửi tín hiệu điều khiển điều hoà và giảm nhiệt độ của điều hoà vào lần ấn tiếp theo
 # Tính năng đang phát triển
 - Thêm các nút bật,tắt, tăng, giảm nhiệt độ (dã hoàn thành thử nghiệm, chưa publish code)
